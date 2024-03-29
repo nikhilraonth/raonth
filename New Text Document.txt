@@ -1,0 +1,31 @@
+<html>
+<head>
+<tittle>Nikhil's website</tittle>
+</head>
+<body>
+<h1>fill out the form for more information</h1>
+</body>
+<body>
+<form>
+First Name:<input type="text"name=""placeholder="Enter Name" required>
+<br><br>
+Middle Name:<input tpe="text"placeholder="Enter here">
+<br><br>
+Last Name:<input type="text"placeholder="Enter Name" required>
+
+</form>
+<form>
+password:<input type="password" minlength=5>
+</form>
+<form>
+<br>
+Gender:<input type="radio"name="c1">male
+	<input type="radio"name="c1">female
+	<input type="radio"name="c1">others
+</form>
+<br><form>
+<input type="submit" value="submit form">
+<input type="reset" value=" clear">
+</form>
+</body>
+</html>
